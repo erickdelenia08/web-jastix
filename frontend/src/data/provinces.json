@@ -1,0 +1,80 @@
+[
+  {
+    "province_id": "11",
+    "province_name": "Aceh",
+    "districts": [
+      {"id": "1107", "name": "KABUPATEN ACEH BARAT"},
+      {"id": "1112", "name": "KABUPATEN ACEH BARAT DAYA"},
+      {"id": "1108", "name": "KABUPATEN ACEH BESAR"},
+      {"id": "1116", "name": "KABUPATEN ACEH JAYA"},
+      {"id": "1103", "name": "KABUPATEN ACEH SELATAN"}
+    ]
+  },
+  {
+    "province_id": "12",
+    "province_name": "Sumatera Utara",
+    "districts": [
+      {"id": "1208", "name": "KABUPATEN ASAHAN"},
+      {"id": "1219", "name": "KABUPATEN BATU BARA"},
+      {"id": "1212", "name": "KABUPATEN DAIRI"},
+      {"id": "1273", "name": "KOTA MEDAN"}
+    ]
+  },
+  {
+    "province_id": "31",
+    "province_name": "DKI Jakarta",
+    "districts": [
+      {"id": "3171", "name": "KOTA JAKARTA SELATAN"},
+      {"id": "3172", "name": "KOTA JAKARTA TIMUR"},
+      {"id": "3173", "name": "KOTA JAKARTA PUSAT"},
+      {"id": "3174", "name": "KOTA JAKARTA BARAT"},
+      {"id": "3175", "name": "KOTA JAKARTA UTARA"}
+    ]
+  },
+  {
+    "province_id": "32",
+    "province_name": "Jawa Barat",
+    "districts": [
+      {"id": "3201", "name": "KABUPATEN BOGOR"},
+      {"id": "3271", "name": "KOTA BOGOR"},
+      {"id": "3273", "name": "KOTA BANDUNG"},
+      {"id": "3204", "name": "KABUPATEN BANDUNG"}
+    ]
+  },
+  {
+    "province_id": "33",
+    "province_name": "Jawa Tengah",
+    "districts": [
+      {"id": "3374", "name": "KOTA SEMARANG"},
+      {"id": "3372", "name": "KOTA SURAKARTA"},
+      {"id": "3301", "name": "KABUPATEN CILACAP"}
+    ]
+  },
+  {
+    "province_id": "35",
+    "province_name": "Jawa Timur",
+    "districts": [
+      {"id": "3578", "name": "KOTA SURABAYA"},
+      {"id": "3579", "name": "KOTA BATU"},
+      {"id": "3577", "name": "KOTA MALANG"},
+      {"id": "3576", "name": "KOTA MOJOKERTO"}
+    ]
+  },
+  {
+    "province_id": "51",
+    "province_name": "Bali",
+    "districts": [
+      {"id": "5171", "name": "KOTA DENPASAR"},
+      {"id": "5108", "name": "KABUPATEN BADUNG"},
+      {"id": "5103", "name": "KABUPATEN TABANAN"}
+    ]
+  },
+  {
+    "province_id": "73",
+    "province_name": "Sulawesi Selatan",
+    "districts": [
+      {"id": "7371", "name": "KOTA MAKASSAR"},
+      {"id": "7308", "name": "KABUPATEN GOWA"}
+    ]
+  }
+]
