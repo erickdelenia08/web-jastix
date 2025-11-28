@@ -20,31 +20,27 @@ Project ini dirancang menyerupai workflow Data Analyst/Data Scientist di industr
 ---
 
 ## 📁 Project Structure
-<div style="font-family: Consolas, monospace; background:#1e1e1e; color:#d4d4d4; padding:16px; border-radius:8px; line-height:1.5; white-space:pre;">
-shopee-earphone-analysis/
-│
-├── data/
-│   ├── raw/                # original scraped dataset
-│   └── processed/          # cleaned dataset
-│
-├── notebooks/
-│   ├── 01_scraping.ipynb
-│   ├── 02_cleaning.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_correlation.ipynb
-│   └── 05_dashboard_prep.ipynb
-│
-├── scripts/
-│   ├── scrape.js           # Puppeteer scraper
-│   ├── cleaning.py
-│   ├── eda.py
-│   └── utils.py
-│
-├── dashboard/
-│   └── shopee_dashboard.pbix
-│
-└── README.md
-</div>
+``bash
+├── app
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── dist (or build)
+├── node_modules
+├── bower_components (if using bower)
+├── test
+├── Gruntfile.js/gulpfile.js
+├── README.md
+├── package.json
+├── bower.json (if using bower)
+└── .gitignore
+```
+
 
 ---
 
