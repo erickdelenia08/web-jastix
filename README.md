@@ -20,11 +20,12 @@ Project ini dirancang menyerupai workflow Data Analyst/Data Scientist di industr
 ---
 
 ## 📁 Project Structure
-📂 shopee-earphone-analysis
+<div style="font-family: Consolas, monospace; background:#1e1e1e; color:#d4d4d4; padding:16px; border-radius:8px; line-height:1.5; white-space:pre;">
+shopee-earphone-analysis/
 │
 ├── data/
-│   ├── raw/               
-│   └── processed/   
+│   ├── raw/                # original scraped dataset
+│   └── processed/          # cleaned dataset
 │
 ├── notebooks/
 │   ├── 01_scraping.ipynb
@@ -43,7 +44,7 @@ Project ini dirancang menyerupai workflow Data Analyst/Data Scientist di industr
 │   └── shopee_dashboard.pbix
 │
 └── README.md
-
+</div>
 
 ---
 
