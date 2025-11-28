@@ -23,24 +23,24 @@ Project ini dirancang menyerupai workflow Data Analyst/Data Scientist di industr
 📂 shopee-earphone-analysis
 │
 ├── data/
-│ ├── raw/ # hasil scraping awal
-│ ├── processed/ # setelah cleaning
+│   ├── raw/               
+│   └── processed/   
 │
 ├── notebooks/
-│ ├── 01_scraping.ipynb
-│ ├── 02_cleaning.ipynb
-│ ├── 03_eda.ipynb
-│ ├── 04_correlation.ipynb
-│ └── 05_dashboard_prep.ipynb
+│   ├── 01_scraping.ipynb
+│   ├── 02_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_correlation.ipynb
+│   └── 05_dashboard_prep.ipynb
 │
 ├── scripts/
-│ ├── scrape.js # Puppeteer scraper
-│ ├── cleaning.py
-│ ├── eda.py
-│ └── utils.py
+│   ├── scrape.js           # Puppeteer scraper
+│   ├── cleaning.py
+│   ├── eda.py
+│   └── utils.py
 │
 ├── dashboard/
-│ └── shopee_dashboard.pbix
+│   └── shopee_dashboard.pbix
 │
 └── README.md
 
